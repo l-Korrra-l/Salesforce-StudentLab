@@ -1,0 +1,7 @@
+<aura:component implements="force:appHostable, flexipage:availableForAllPageTypes">
+<div>
+    <lightning:button label="Hello" onclick="{!c.handleClick}">
+
+    </lightning:button>
+</div>
+</aura:component>	
